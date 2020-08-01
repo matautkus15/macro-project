@@ -8,6 +8,7 @@ public class MacrosApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MacrosApplication.class, args);
+		//test
 	}
 
 }
